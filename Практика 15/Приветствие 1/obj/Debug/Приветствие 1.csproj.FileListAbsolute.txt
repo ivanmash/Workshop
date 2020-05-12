@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Практика 15\Приветствие 1\bin\Debug\Приветствие 1.exe.config
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Практика 15\Приветствие 1\bin\Debug\Приветствие 1.exe
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Практика 15\Приветствие 1\bin\Debug\Приветствие 1.pdb
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Практика 15\Приветствие 1\obj\Debug\Приветствие 1.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Практика 15\Приветствие 1\obj\Debug\Приветствие_1.Form1.resources
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Практика 15\Приветствие 1\obj\Debug\Приветствие_1.Properties.Resources.resources
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Практика 15\Приветствие 1\obj\Debug\Приветствие 1.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Практика 15\Приветствие 1\obj\Debug\Приветствие 1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Практика 15\Приветствие 1\obj\Debug\Приветствие 1.exe
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Практика 15\Приветствие 1\obj\Debug\Приветствие 1.pdb
